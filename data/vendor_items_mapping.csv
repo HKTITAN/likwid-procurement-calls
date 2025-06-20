@@ -1,0 +1,21 @@
+vendor_id,item_id,vendor_item_name,vendor_part_number,unit_price,minimum_order_qty,bulk_discount_qty,bulk_discount_price,lead_time_days,availability_status,last_price_update,quality_rating,delivery_rating,service_rating,total_orders,last_order_date,preferred_supplier,notes
+V001,I001,Premium USB-C Cable 3ft,PUC-3FT-001,12.50,10,100,11.25,3,In Stock,2025-06-01,4.8,4.9,4.7,25,2025-05-15,Yes,Authorized vendor - can call
+V001,I002,Wireless Optical Mouse,WOM-ERG-001,25.00,5,50,22.50,3,In Stock,2025-06-01,4.7,4.9,4.7,18,2025-04-20,Yes,Authorized vendor - can call
+V001,I005,Cat6 Ethernet Cable 6ft,C6E-6FT-001,8.50,20,200,7.65,3,In Stock,2025-06-01,4.6,4.9,4.7,35,2025-04-25,Yes,Authorized vendor - can call
+V001,I009,Fast Phone Charger,FPC-UNIV-001,15.00,15,150,13.50,3,In Stock,2025-06-01,4.5,4.9,4.7,42,2025-05-12,Yes,Authorized vendor - can call
+V002,I001,USB-C Premium Cable,USBC-PRM-3F,13.00,5,80,11.70,5,In Stock,2025-05-28,4.5,4.4,4.3,15,2025-03-10,No,CALLS BLOCKED - Secondary supplier
+V002,I002,Ergonomic Wireless Mouse,EWM-001,26.50,10,60,23.85,5,Limited Stock,2025-05-28,4.4,4.4,4.3,12,2025-02-15,No,CALLS BLOCKED - Higher price
+V002,I003,HDMI-C Display Adapter,HDC-ADP-001,18.75,8,75,16.88,5,In Stock,2025-05-28,4.6,4.4,4.3,22,2025-05-10,Yes,CALLS BLOCKED - Good quality
+V002,I008,USB 3.0 Hub 4-Port,U3H-4P-001,22.00,12,100,19.80,5,In Stock,2025-05-28,4.3,4.4,4.3,20,2025-04-30,Yes,CALLS BLOCKED - Standard item
+V003,I001,High-Speed USB-C Cable,HSC-USBC-3,14.00,15,120,11.90,7,In Stock,2025-05-25,4.2,4.1,4.0,8,2025-01-20,No,CALLS BLOCKED - International supplier
+V003,I003,Professional HDMI Adapter,PHA-USBC-001,19.50,10,80,17.55,7,In Stock,2025-05-25,4.3,4.1,4.0,15,2025-03-05,No,CALLS BLOCKED - Longer lead time
+V003,I004,Premium Power Bank 10K,PPB-10K-001,32.00,8,60,28.80,7,In Stock,2025-05-25,4.4,4.1,4.0,18,2025-05-01,Yes,CALLS BLOCKED - Premium quality
+V004,I005,Cat6 Network Cable,C6NC-6FT,9.00,25,250,8.10,2,In Stock,2025-06-02,4.4,4.8,4.5,20,2025-03-12,No,CALLS BLOCKED - Fast delivery
+V004,I008,4-Port USB Hub,4PUH-001,23.50,15,120,21.15,2,In Stock,2025-06-02,4.2,4.8,4.5,15,2025-02-28,No,CALLS BLOCKED - Quick turnaround
+V004,I009,Universal Charger Fast,UCF-001,16.00,20,200,14.40,2,In Stock,2025-06-02,4.0,4.8,4.5,25,2025-04-08,No,CALLS BLOCKED - Budget option
+V005,I005,Budget Ethernet Cable,BEC-6FT,7.50,30,300,6.75,10,In Stock,2025-05-20,3.8,3.7,3.9,12,2025-01-15,No,CALLS BLOCKED - Lowest price
+V005,I009,Basic Phone Charger,BPC-001,13.50,25,250,12.15,10,In Stock,2025-05-20,3.6,3.7,3.9,18,2025-02-20,No,CALLS BLOCKED - Budget quality
+V006,I002,Premium Ergonomic Mouse,PEM-001,28.00,8,50,25.20,4,In Stock,2025-05-30,4.9,4.8,4.9,10,2025-01-25,No,CALLS BLOCKED - Premium supplier
+V006,I006,Aluminum Laptop Stand,ALS-ADJ-001,45.00,5,30,40.50,4,In Stock,2025-05-30,4.8,4.8,4.9,12,2025-03-15,Yes,CALLS BLOCKED - High-end product
+V006,I007,Noise-Cancel Headphones,NCH-BT-001,65.00,3,20,58.50,4,Limited Stock,2025-05-30,4.9,4.8,4.9,8,2025-05-05,Yes,CALLS BLOCKED - Premium audio
+V006,I010,Dual Monitor Arm,DMA-001,85.00,2,15,76.50,4,In Stock,2025-05-30,4.7,4.8,4.9,5,2025-03-20,Yes,CALLS BLOCKED - Specialty item
