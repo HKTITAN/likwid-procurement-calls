@@ -1,0 +1,209 @@
+{
+  "history": [
+    {
+      "timestamp": "2025-06-20T14:33:03.167528",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 10138.51682709865,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I003,I004,I005,I006,I007,I008,I009,I010",
+          "quoted_price": 10138.51682709865,
+          "quantity": 1385,
+          "total_cost": 10138.51682709865,
+          "quote_timestamp": "2025-06-20T14:33:02.837615",
+          "call_sid": "CA2054375c88b08277740dab69718f5db9",
+          "quote_valid_until": null,
+          "notes": "Quote for 4 items"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-06-20T14:34:49.245030",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 10399.948145677794,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I003,I004,I005,I006,I007,I008,I009,I010",
+          "quoted_price": 10399.948145677794,
+          "quantity": 1385,
+          "total_cost": 10399.948145677794,
+          "quote_timestamp": "2025-06-20T14:34:48.909229",
+          "call_sid": "CAb5d1bfc5ea3f13e0c48f52d2706eba30",
+          "quote_valid_until": null,
+          "notes": "Quote for 4 items"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-06-20T14:45:19.941326",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 10623.049044716716,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I005,I009",
+          "quoted_price": 10623.049044716716,
+          "quantity": 1385,
+          "total_cost": 10623.049044716716,
+          "quote_timestamp": "2025-06-20T14:45:13.920810",
+          "call_sid": "CA36bf4024952483b9d68ca7f0b6960fe5",
+          "quote_valid_until": null,
+          "notes": "Fallback quote - speech recognition failed"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-06-20T15:11:08.573919",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 10849.10813582691,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I005,I009",
+          "quoted_price": 10849.10813582691,
+          "quantity": 1385,
+          "total_cost": 10849.10813582691,
+          "quote_timestamp": "2025-06-20T15:11:03.143154",
+          "call_sid": "CAc8b71f8004cdeea958f097efa52a13a5",
+          "quote_valid_until": null,
+          "notes": "Fallback quote - speech recognition failed"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-06-20T15:24:48.347020",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 11036.159912613684,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I005,I009",
+          "quoted_price": 11036.159912613684,
+          "quantity": 1385,
+          "total_cost": 11036.159912613684,
+          "quote_timestamp": "2025-06-20T15:24:42.928274",
+          "call_sid": "CAc9a40a19a555091a9d88e4ab0d292d5a",
+          "quote_valid_until": null,
+          "notes": "Fallback quote - speech recognition failed"
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-06-20T15:25:51.668296",
+      "items_required": [
+        "I001",
+        "I002",
+        "I003",
+        "I004",
+        "I005",
+        "I006",
+        "I007",
+        "I008",
+        "I009",
+        "I010"
+      ],
+      "selected_vendor": "TechSupply Solutions",
+      "total_cost": 10829.717460143096,
+      "status": "Quote Collection Completed",
+      "call_sid": null,
+      "email_sent": false,
+      "quotes_collected": [
+        {
+          "vendor_id": "V001",
+          "vendor_name": "TechSupply Solutions",
+          "item_id": "I001,I002,I005,I009",
+          "quoted_price": 10829.717460143096,
+          "quantity": 1385,
+          "total_cost": 10829.717460143096,
+          "quote_timestamp": "2025-06-20T15:25:46.138022",
+          "call_sid": "CAad3a01dc674b872507778b3a6bdfe2df",
+          "quote_valid_until": null,
+          "notes": "Fallback quote - speech recognition failed"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2025-06-20T15:25:51.668296"
+}

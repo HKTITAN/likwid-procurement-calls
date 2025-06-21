@@ -1,8 +1,8 @@
 vendor_id,item_id,vendor_item_name,vendor_part_number,unit_price,minimum_order_qty,bulk_discount_qty,bulk_discount_price,lead_time_days,availability_status,last_price_update,quality_rating,delivery_rating,service_rating,total_orders,last_order_date,preferred_supplier,notes
-V001,I001,Premium USB-C Cable 3ft,PUC-3FT-001,12.50,10,100,11.25,3,In Stock,2025-06-01,4.8,4.9,4.7,25,2025-05-15,Yes,Authorized vendor - can call
-V001,I002,Wireless Optical Mouse,WOM-ERG-001,25.00,5,50,22.50,3,In Stock,2025-06-01,4.7,4.9,4.7,18,2025-04-20,Yes,Authorized vendor - can call
-V001,I005,Cat6 Ethernet Cable 6ft,C6E-6FT-001,8.50,20,200,7.65,3,In Stock,2025-06-01,4.6,4.9,4.7,35,2025-04-25,Yes,Authorized vendor - can call
-V001,I009,Fast Phone Charger,FPC-UNIV-001,15.00,15,150,13.50,3,In Stock,2025-06-01,4.5,4.9,4.7,42,2025-05-12,Yes,Authorized vendor - can call
+V001,I001,Premium USB-C Cable 3ft,PUC-3FT-001,11.859497207255732,10,100,11.25,3,In Stock,2025-06-20,4.8,4.9,4.7,25,2025-05-15,Yes,Authorized vendor - can call
+V001,I002,Wireless Optical Mouse,WOM-ERG-001,24.369245994393946,5,50,22.50,3,In Stock,2025-06-20,4.7,4.9,4.7,18,2025-04-20,Yes,Authorized vendor - can call
+V001,I005,Cat6 Ethernet Cable 6ft,C6E-6FT-001,8.735266711803622,20,200,7.65,3,In Stock,2025-06-20,4.6,4.9,4.7,35,2025-04-25,Yes,Authorized vendor - can call
+V001,I009,Fast Phone Charger,FPC-UNIV-001,13.601253622845881,15,150,13.50,3,In Stock,2025-06-20,4.5,4.9,4.7,42,2025-05-12,Yes,Authorized vendor - can call
 V002,I001,USB-C Premium Cable,USBC-PRM-3F,13.00,5,80,11.70,5,In Stock,2025-05-28,4.5,4.4,4.3,15,2025-03-10,No,CALLS BLOCKED - Secondary supplier
 V002,I002,Ergonomic Wireless Mouse,EWM-001,26.50,10,60,23.85,5,Limited Stock,2025-05-28,4.4,4.4,4.3,12,2025-02-15,No,CALLS BLOCKED - Higher price
 V002,I003,HDMI-C Display Adapter,HDC-ADP-001,18.75,8,75,16.88,5,In Stock,2025-05-28,4.6,4.4,4.3,22,2025-05-10,Yes,CALLS BLOCKED - Good quality
